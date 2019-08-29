@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flash</string>
+    <string name="about">Developed By :  Arman Bin Absar \n
+        E-mail : muhammadarman038@gmail.com </string>
+    <string name="help">For Permision : \n
+Go to Settings > Click On Apps or Installed Apps > Find your Flash App And Click on it > Click on App permission > Click on toggle button to allow permission.</string>
+</resources>
